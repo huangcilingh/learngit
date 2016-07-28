@@ -4,3 +4,5 @@ Git is free software ditributed under the GPL.
 add by macmini.
 
 Creating a new branch is quick AND simple.
+
+add merge.
