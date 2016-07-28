@@ -8,3 +8,7 @@ Creating a new branch is quick.
 test branch 1
 
 
+Creating a new branch is quick AND simple.
+
+Add merge. fix a bug 
+
