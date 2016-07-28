@@ -5,4 +5,4 @@ add by macmini.
 
 Creating a new branch is quick AND simple.
 
-add merge.
+Add merge. fix a bug 
